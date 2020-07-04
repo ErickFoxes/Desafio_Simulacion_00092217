@@ -23,7 +23,7 @@ public class VentanaPrincipal extends JFrame{
 		iniciarComponentes();
 	}
 	public JPanel panel = new JPanel();
-	public ImageIcon img1 = new ImageIcon("src/Recursos/semidabizq.png");
+	public ImageIcon img1 = new ImageIcon("src/Recursos/semidabder.png");
 	public ImageIcon img2 = new ImageIcon("src/Recursos/indiferente.png");
 	public JLabel etiquetaimg = new JLabel();
 	public JLabel dialogo = new JLabel();
